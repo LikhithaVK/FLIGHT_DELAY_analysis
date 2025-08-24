@@ -1,6 +1,6 @@
-#Flight Delay Analysis
+##Flight Delay Analysis
 
-#📌 Project Overview
+📌 Project Overview
 
 This project analyzes flight performance using a synthetic dataset of airline operations. It focuses on departure delays, arrival delays, and cancellations, with breakdowns by airline, time of day, and reason for disruption.
 
